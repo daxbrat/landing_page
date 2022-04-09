@@ -14,8 +14,7 @@ body {
 
 }
 
-
-img {
+.logo img {
   height: 60px;
 }
 
@@ -28,4 +27,14 @@ ul {
   display: flex;
   list-style: none;
   gap: 25px;
+}
+
+.hero-img img{
+  height: 225px;
+}
+
+.hero {
+  background: #1f2937;
+  color: #f9faf8;
+  display: flex;
 }
