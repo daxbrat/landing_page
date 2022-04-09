@@ -9,16 +9,23 @@ body {
 .header {
   background: #1f2937;
   display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+
 }
 
-.nav li {
-  color: #f9faf8;
-}
 
 img {
   height: 60px;
 }
 
 a {
+  color: #f9faf8;
   text-decoration: none;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 25px;
 }
