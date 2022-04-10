@@ -11,7 +11,6 @@ body {
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
-
 }
 
 .logo img {
@@ -29,12 +28,30 @@ ul {
   gap: 25px;
 }
 
-.hero-img img{
-  height: 225px;
-}
-
 .hero {
   background: #1f2937;
   color: #f9faf8;
   display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.hero-text {
+  padding: 100px 20px 100px 125px;
+}
+
+.hero-img img{
+  height: 300px;
+  padding: 100px 150px 100px 0;
+}
+
+button {
+  background: #3882f6;
+}
+
+.hero-text h1 {
+  margin: 0;
+  font-weight: bolder;
+  font-size: 48px;
+  color: #f9faf8;
 }
