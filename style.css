@@ -46,7 +46,12 @@ ul {
 }
 
 button {
+  border: none;
+  border-radius: 4px;
   background: #3882f6;
+  color: white;
+  padding: 5px 20px;
+  font-weight: bold;
 }
 
 .hero-text h1 {
