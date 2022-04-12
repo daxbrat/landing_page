@@ -63,7 +63,6 @@ button {
 }
 
 .info img {
-  width: 150px;
   height: 150px;
 }
 
@@ -73,6 +72,7 @@ button {
 }
 
 .search {
+  margin-top: 35px;
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
@@ -86,4 +86,13 @@ button {
 
 .info {
   max-width: 200px;
+}
+
+.quote {
+  margin:35px 0;
+  padding: 150px 275px;
+  background-color: #e5e7eb;
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
 }
