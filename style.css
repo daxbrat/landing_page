@@ -99,7 +99,7 @@ button {
 
 .modal {
   background: #3882f6;
-  width: 700px;
+  width: 900px;
   border-radius: 5px;
   display: flex;
   gap: 16px;
@@ -112,10 +112,16 @@ button {
   align-items: center;
   justify-content: space-between;
   font-size: 18px;
-  font-weight: 700;
-  margin-bottom: 8px;
+  margin-top: 24px;
 }
 
-.text-m {
+.container-2 {
+  display: flex;
   margin-bottom: 16px;
+}
+
+.sign-up {
+  border: 2px solid #f9faf8;
+  font-weight: bold;
+  margin-left: 55px;
 }
