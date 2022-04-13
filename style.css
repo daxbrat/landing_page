@@ -96,3 +96,26 @@ button {
   font-style: italic;
   color: #1f2937;
 }
+
+.modal {
+  background: #3882f6;
+  width: 700px;
+  border-radius: 5px;
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  display: flex;
+}
+
+.header-m {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.text-m {
+  margin-bottom: 16px;
+}
