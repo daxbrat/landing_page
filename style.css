@@ -104,13 +104,15 @@ button {
   display: flex;
   gap: 16px;
   margin: 50px auto;
+  padding: 30px 50px;
 }
 
 .header-m {
   font-size: 18px;
   margin-top: 24px;
-  font-weight: 700;
-  color:#e5e7eb;
+  font-weight: 900;
+  color:#f9faf8;
+  margin-bottom: 2px;
 }
 
 .text-m {
@@ -120,6 +122,7 @@ button {
 
 button.sign-up {
   border: 2px solid #f9faf8;
-  font-weight: bold;
+  font-weight: 900;
   margin: auto;
+  margin-right: 100px;
 }
