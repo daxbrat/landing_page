@@ -126,3 +126,10 @@ button.sign-up {
   margin: auto;
   margin-right: 100px;
 }
+
+.footer {
+  background: #1f2937;
+  text-align: center;
+  color:#e5e7eb;
+  padding: 30px 0;
+}
